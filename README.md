@@ -33,8 +33,8 @@
 - PKK (Produk Kreatif dan Kewirausahaan)
 
 ### Kelas-XII
-- PAI (Pendidikan Agama Islam)
-- Bhs. Indonesia
+- [PAI (Pendidikan Agama Islam)](xii/pai/README.md)
+- [Bhs. Indonesia](xii/b-indonesia/README.md)
 - Bhs. Inggris
 - Ketamansiswaan
 - PPKn
